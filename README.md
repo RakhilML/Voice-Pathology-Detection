@@ -25,3 +25,9 @@ Ensemble_Stacking.ipynb contains the Following code cells:
 To evaluate model performance, metrics like accuracy, precision, recall, and F1 score were calculated, with hyperparameters fine-tuned using the Optuna library. This significantly improved the efficiency of all models. Among the base models, KNN achieved the highest accuracy of 89.5%, followed by LS and ETC with 86% and the ensemble model achieving an accuracy of 91.5%. 
 
 * Among the individual classifiers, KNN achieved the highest accuracy of 89%, while ensemble stacking further boosted accuracy to 91%. Looking ahead, future research will focus on expanding the dataset to include more voice disorders and exploring advanced algorithms like deep reinforcement learning, transfer learning, and attention mechanisms to enhance the model’s performance and robustness.
+
+
+# Cite
+
+Consider citing the Work at
+https://doi.org/10.1109/ICMACC62921.2024.10894115
